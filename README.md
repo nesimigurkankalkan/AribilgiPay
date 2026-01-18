@@ -111,9 +111,7 @@ The **API layer** acts as the entry point of the system.
 
 * ASP.NET Core Web API
 * C#
-* Entity Framework Core
-* Dependency Injection
-* RESTful API principles
+* Dependency Injection and Swagger
 
 ---
 
