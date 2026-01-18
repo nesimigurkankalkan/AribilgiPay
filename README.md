@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project is a **Payment System Web API** developed with **ASP.NET Core**, designed as a real-world example of applying **Hexagonal Architecture (Ports & Adapters)** principles. The main goal of this project is to demonstrate how to build a clean, maintainable, testable, and scalable backend system by enforcing a strong separation of concerns.
+This project is a **Payment System Web API** developed with **ASP.NET Core**, designed as a real-world example of applying **Hexagonal Architecture principles. The main goal of this project is to demonstrate how to build a clean, maintainable, testable, and scalable backend system by enforcing a strong separation of concerns.
 
 The architecture is structured into **Application**, **Domain**, and **Infrastructure** layers, ensuring that business logic remains independent of external frameworks, databases, and third-party services.
 
@@ -98,7 +98,7 @@ The **API layer** acts as the entry point of the system.
 
 ## Key Concepts Implemented
 
-* Hexagonal Architecture (Ports & Adapters)
+* Hexagonal Architecture 
 * Clean Architecture principles
 * Dependency Inversion
 * Separation of Concerns
@@ -121,7 +121,7 @@ The **API layer** acts as the entry point of the system.
 
 ### Prerequisites
 
-* .NET SDK (latest LTS)
+* .NET SDK (8.0)
 * Any IDE supporting .NET (Visual Studio / Rider / VS Code)
 
 ### Running the Project
